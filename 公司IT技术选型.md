@@ -4,7 +4,7 @@
 
 2、 运维管理：建立一套完善的运维体系，包括监控、备份、容灾、安全等方面，确保系统的稳定运行。可以考虑使用自动化运维工具，Docker等，提高运维效率。
 
-3、 前端应用开发：Vue/iOS/Android/小程序
+3、 前端应用开发：Vue/iOS/Android/小程序; Element Plus、Ant Design、arco.design *
 
 4、 后端服务开发：Spring Framework/Spring Boot/ Spring data*/Dubbo、guava、EasyExcel、Mybatis、MybatisFlex
 
