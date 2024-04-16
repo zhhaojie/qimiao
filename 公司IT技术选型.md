@@ -4,12 +4,12 @@
 
 2、 运维管理：建立一套完善的运维体系，包括监控、备份、容灾、安全等方面，确保系统的稳定运行。可以考虑使用自动化运维工具，Docker等，提高运维效率。
 
-3、 应用开发：根据公司的业务需求，选择合适的前端和后端技术栈。前端技术：iOS、Android、Java、Vue、HTML5等，后端技术：Java、Python等。 
+3、 前端应用开发：Vue/React/iOS/Android/小程序
 
-4、 后端技术栈：spring/Spring Boot/Dubbo、guava/ easyExcel/ Mybatis/ Spring data*
+4、 后端服务开发：Spring Framework/Spring Boot/ Spring data*/Dubbo、guava、EasyExcel、Mybatis、MybatisFlex
 
 5、 技术设施：RocketMQ、Redis、Nacos、MySQL、EMQX
 
 6、 信息管理：禅道、tapd、文档知识库、飞书、企业微信、Git、Jenkins
 
-7、 团队建设：招聘具有相关技能和经验的开发人员，建立高效的开发团队。同时，要注重团队成员的培训和成长，提高团队的整体技术水平。
+7、 团队建设：招聘具有相关技能和经验的开发人员，建立高效的开发团队。团队文化：owner文化、分享文化、专治各种不服
