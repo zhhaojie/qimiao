@@ -6,10 +6,12 @@
 
 3、 前端应用开发：Vue/iOS/Android/小程序; Element Plus、Ant Design、arco.design *
 
-4、 后端服务开发：Spring Framework/Spring Boot/ Spring data*/Dubbo、guava、EasyExcel、Mybatis、MybatisFlex
+4、 后端服务开发：Spring Framework/Spring Boot/ Spring data*/Dubbo、Mybatis、MybatisFlex、Spring Retry
 
-5、 技术设施：RocketMQ、Redis、Nacos、MySQL、EMQX
+5、 后端服务开发：Spring Framework/Spring Boot/ Spring data*/Dubbo、guava、EasyExcel、Mybatis、MybatisFlex
 
-6、 信息管理：禅道、tapd、文档知识库、飞书、企业微信、Git、Jenkins
+6、 后端精品类库：Guava、FailSafe、Hutool、Swagger、Guava、EasyExcel、Redssion
 
-7、 团队建设：招聘具有相关技能和经验的开发人员，建立高效的开发团队。团队文化：owner文化、分享文化、专治各种不服
+7、 信息管理：禅道、tapd、文档知识库、飞书、企业微信、Git、Jenkins
+
+8、 团队建设：招聘具有相关技能和经验的开发人员，建立高效的开发团队。团队文化：owner文化、分享文化、专治各种不服
