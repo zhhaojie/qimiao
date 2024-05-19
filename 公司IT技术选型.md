@@ -8,7 +8,7 @@
 
 4、 后端服务开发：Spring Framework/Spring Boot/ Spring data*/Dubbo、Mybatis、MybatisFlex、Spring Retry
 
-5、 后端精品类库：Guava、FailSafe、Hutool、Swagger、Guava、EasyExcel、Redssion
+5、 后端精品类库：Guava、FailSafe、Hutool、Swagger、EasyExcel、Redssion
 
 6、 信息管理：禅道、tapd、文档知识库、飞书、企业微信、Git、Jenkins
 
