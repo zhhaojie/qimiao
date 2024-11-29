@@ -1,0 +1,10 @@
+== 使用datagrip 连接h2数据。
+
+*  h2运行模式可不能是内存模式启动
+*  在datagrip 当中，创建数据源时，一定会选择"datasource from path"
+*  ConnectionType = Embedded ; Path = 绝对路径; URL=自动生成
+*  Test Connection 能成功就说明对了。
+*  h2 实例正在运行的时候，Test Connection 也有可能连接不成功。 关掉应用重试就可以。
+
+
+  
