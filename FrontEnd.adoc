@@ -1,4 +1,5 @@
 ## 前端的知识
 
-  - daisyUI + htmx
-  - vaadin UI
+- daisyUI + htmx
+- vaadin UI
+- VUE/ReactJS
