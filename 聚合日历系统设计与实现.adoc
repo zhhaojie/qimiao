@@ -1,3 +1,4 @@
 * 设计并实现类似Google Calendar 或Outlook Calendar 相似的本地日历系统。
 * 实现了聚合Apple Calendar，Google Calendar，Outlook Calendar 原始日程的聚合及双向同步。
-
+* 实现了日历数据的存储（重复日历）、多渠道提醒、多设备提醒。
+* 实现了AI小助手。直接用语音查询和管理日程待办数据。
